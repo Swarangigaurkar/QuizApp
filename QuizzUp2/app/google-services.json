@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1273693723",
+    "firebase_url": "https://quizup-2086f.firebaseio.com",
+    "project_id": "quizup-2086f",
+    "storage_bucket": "quizup-2086f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1273693723:android:daf4e2467667f0b7",
+        "android_client_info": {
+          "package_name": "com.example.swarangigaurkar.quizzup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1273693723-56pcr7fojk3ka79m2478hshdqvuj6of4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swarangigaurkar.quizzup",
+            "certificate_hash": "6a79b8a372ecafb3349d40e6ab96eb547544b529"
+          }
+        },
+        {
+          "client_id": "1273693723-mmlkhb8j5k6knc1n1hn73gc6jv29iu1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3UokDwbpgnSSpuQZ-Ia61sRBIqDhLWns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1273693723-mmlkhb8j5k6knc1n1hn73gc6jv29iu1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/profile"
+            android:title="Profile" />
+
+
+        <item
+            android:id="@+id/cards"
+            android:icon="@drawable/cards"
+            android:title="Modules" />
+
+        <item
+            android:id="@+id/nav_save"
+            android:icon="@drawable/save"
+            android:title="Tutorials" />
+
+
+    </group>
+    <item android:title="More ">
+
+        <menu>
+            <item
+                android:id="@+id/rateus"
+                android:icon="@drawable/star"
+                android:title="Rate us" />
+            <item
+                android:id="@+id/aboutus"
+                android:icon="@drawable/aboutus"
+                android:title="About app" />
+
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/logout"
+                android:title="Log out" />
+
+
+        </menu>
+
+    </item>
+
+</menu>
